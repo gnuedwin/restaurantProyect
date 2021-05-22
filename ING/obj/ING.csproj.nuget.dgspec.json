@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ecast\\Desktop\\restaurantProyect\\ING\\ING\\ING.csproj": {}
+    "C:\\Users\\ecast\\Desktop\\restaurantProyectGit\\restaurantProyect\\ING\\ING.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ecast\\Desktop\\restaurantProyect\\ING\\ING\\ING.csproj": {
+    "C:\\Users\\ecast\\Desktop\\restaurantProyectGit\\restaurantProyect\\ING\\ING.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecast\\Desktop\\restaurantProyect\\ING\\ING\\ING.csproj",
+        "projectUniqueName": "C:\\Users\\ecast\\Desktop\\restaurantProyectGit\\restaurantProyect\\ING\\ING.csproj",
         "projectName": "ING",
-        "projectPath": "C:\\Users\\ecast\\Desktop\\restaurantProyect\\ING\\ING\\ING.csproj",
+        "projectPath": "C:\\Users\\ecast\\Desktop\\restaurantProyectGit\\restaurantProyect\\ING\\ING.csproj",
         "packagesPath": "C:\\Users\\ecast\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecast\\Desktop\\restaurantProyect\\ING\\ING\\obj\\",
+        "outputPath": "C:\\Users\\ecast\\Desktop\\restaurantProyectGit\\restaurantProyect\\ING\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecast\\AppData\\Roaming\\NuGet\\NuGet.Config",
